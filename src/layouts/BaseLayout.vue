@@ -1,11 +1,7 @@
 <script lang="ts">
-import { version } from "../../package.json";
-import { Component, Vue, toNative } from "vue-facing-decorator";
+import { defineComponent } from 'vue';
 
-@Component
-class BaseLayout extends Vue {}
-
-export default toNative(BaseLayout)
+export default defineComponent({});
 </script>
 
 <template>
