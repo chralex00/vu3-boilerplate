@@ -1,0 +1,3 @@
+DOCKER_CONTAINER_NAME=vue3-boilerplate
+DOCKER_IMAGE_NAME=vue3-boilerplate
+DOCKER_PORT=8081
